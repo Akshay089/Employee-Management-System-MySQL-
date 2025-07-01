@@ -9,3 +9,13 @@ A simple and efficient Employee Management System built using **MySQL** to manag
 📄 View all employee data in a structured format
 📁 Clean relational database structure with primary & foreign key relationships
 
+## 📸 Screenshots
+
+### 🖥️ Dashboard View
+![Dashboard](./assets/dashboard.png)
+
+### 🗃️ MySQL Table Schema
+![Schema](./assets/schema.png)
+
+### 📊 Employee Table Data
+![Table](./assets/table.png)
